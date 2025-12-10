@@ -79,6 +79,7 @@ The top users changed significantly when optimizing for quality over quantity:
 1.  Clone this repository or open the notebook in Google Colab.
 2.  **Set up Credentials:**
     * Click the **Secrets (🔑)** icon in the Colab sidebar.
+    * Upload `PageRank_Project.ipynb` to Google Colab.
     * Add a new secret named `KAGGLE_USERNAME` with your username.
     * Add a new secret named `KAGGLE_KEY` with your API key.
     * Toggle "Notebook access" to **On** for both.
