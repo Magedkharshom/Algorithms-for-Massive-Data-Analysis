@@ -77,13 +77,13 @@ The top users changed significantly when optimizing for quality over quantity:
 
 ### Running the Project
 1.  Clone this repository or open the notebook in Google Colab.
-2.  **Set up Credentials:**
+2.  Upload `PageRank_Project.ipynb` to Google Colab.
+3.  **Set up Credentials:**
     * Click the **Secrets (🔑)** icon in the Colab sidebar.
-    * Upload `PageRank_Project.ipynb` to Google Colab.
     * Add a new secret named `KAGGLE_USERNAME` with your username.
     * Add a new secret named `KAGGLE_KEY` with your API key.
     * Toggle "Notebook access" to **On** for both.
-3.  Run all cells. The notebook will automatically fetch the dataset using these credentials.
+4.  Run all cells. The notebook will automatically fetch the dataset using these credentials.
 
 ```bash
 # Data download is handled automatically via the Colab Secrets API
